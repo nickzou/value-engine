@@ -1,0 +1,19 @@
+{
+  "name": "value-engine",
+  "version": "1.0.0",
+  "description": "Packages for Value Engine custom theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickzou/value-engine.git"
+  },
+  "author": "Nick Zou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickzou/value-engine/issues"
+  },
+  "homepage": "https://github.com/nickzou/value-engine#readme"
+}
