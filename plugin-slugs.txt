@@ -1,0 +1,10 @@
+wordpress-seo
+duplicate-page
+redirection
+svg-support
+regenerate-thumbnails
+sassy-social-share
+classic-editor
+simple-taxonomy-ordering
+simple-history
+password-protected
