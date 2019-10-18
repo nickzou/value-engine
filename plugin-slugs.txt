@@ -8,3 +8,4 @@ classic-editor
 simple-taxonomy-ordering
 simple-history
 password-protected
+theme-my-login
